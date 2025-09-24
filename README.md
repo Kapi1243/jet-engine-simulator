@@ -149,9 +149,9 @@ MIT License - see [LICENSE](LICENSE) for details.
 
 ## 👨‍💻 Author
 
-**Kacper Kowalski** - Aerospace Engineer & Software Developer  
+**Kacper Kowalski** - Undergraduate student in Data Science and AI 
 📧 [kacperkowalski2004@gmail.com](mailto:kacperkowalski2004@gmail.com)  
-💼 [LinkedIn]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/kacper-kowalski-2b72ba211))  
+💼 [LinkedIn]([(https://www.linkedin.com/in/kacper-kowalski-2b72ba211)])  
 🐙 [GitHub](https://github.com/Kapi1243)
 
 ---
