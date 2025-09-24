@@ -1,0 +1,29 @@
+# GitHub Upload Commands (run after installing Git)
+
+# Navigate to your project folder
+cd "c:\Users\FiercePC\Documents\Code Projects\jet_engine_sim"
+
+# Initialize git repository
+git init
+
+# Add your GitHub repository as remote
+git remote add origin https://github.com/YOURUSERNAME/jet-engine-simulator.git
+
+# Add all files to staging
+git add .
+
+# Create first commit
+git commit -m "feat: initial release of advanced jet engine simulator
+
+- High-fidelity thermodynamic simulation engine
+- Professional configuration management system  
+- Comprehensive test suite with 15+ test cases
+- Advanced visualization and analysis tools
+- Multi-objective optimization framework
+- Performance benchmarking suite
+- Complete CI/CD pipeline
+- Professional documentation and API reference"
+
+# Push to GitHub
+git branch -M main
+git push -u origin main
