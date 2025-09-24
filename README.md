@@ -150,9 +150,9 @@ MIT License - see [LICENSE](LICENSE) for details.
 ## 👨‍💻 Author
 
 **Kacper Kowalski** - Aerospace Engineer & Software Developer  
-📧 [your.email@domain.com](mailto:your.email@domain.com)  
-💼 [LinkedIn](https://linkedin.com/in/yourprofile)  
-🐙 [GitHub](https://github.com/yourusername)
+📧 [kacperkowalski2004@gmail.com](mailto:kacperkowalski2004@gmail.com)  
+💼 [LinkedIn]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/kacper-kowalski-2b72ba211))  
+🐙 [GitHub](https://github.com/Kapi1243)
 
 ---
 
