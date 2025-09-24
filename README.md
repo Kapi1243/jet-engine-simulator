@@ -155,5 +155,3 @@ MIT License - see [LICENSE](LICENSE) for details.
 🐙 [GitHub](https://github.com/Kapi1243)
 
 ---
-
-*This project showcases advanced Python development skills, aerospace engineering knowledge, and software architecture best practices suitable for roles at leading technology companies.*
