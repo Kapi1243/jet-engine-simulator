@@ -149,11 +149,9 @@ MIT License - see [LICENSE](LICENSE) for details.
 
 ## 👨‍💻 Author
 
-**Kacper Kowalski** - Undergraduate student in Data Science and AI 
+**Kacper Kowalski** - Undergraduate student in Data Science and AI  
 📧 [kacperkowalski2004@gmail.com](mailto:kacperkowalski2004@gmail.com)  
-💼 [LinkedIn]([(https://www.linkedin.com/in/kacper-kowalski-2b72ba211)])  
+💼 [LinkedIn](https://www.linkedin.com/in/kacper-kowalski-2b72ba211)  
 🐙 [GitHub](https://github.com/Kapi1243)
 
 ---
-
-*This project showcases advanced Python development skills, aerospace engineering knowledge, and software architecture best practices suitable for roles at leading technology companies.*
