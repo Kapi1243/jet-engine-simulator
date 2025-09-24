@@ -168,7 +168,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## Contributors
 
-- **Kacper Kowalski** - *Initial work and development* - [GitHub](https://github.com/yourusername)
+- **Kacper Kowalski** - *Initial work and development* - [GitHub]([https://github.com/yourusername](https://github.com/Kapi1243))
 
 ## Acknowledgments
 

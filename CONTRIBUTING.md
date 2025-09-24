@@ -197,12 +197,6 @@ python benchmark.py
 - Ask questions when uncertain
 - Share knowledge generously
 
-## 📞 Getting Help
-
-- **Issues**: Use GitHub issues for bugs/features
-- **Discussions**: Use GitHub discussions for questions
-- **Email**: [your.email@domain.com] for private matters
-
 ## 🎉 Recognition
 
 Contributors will be acknowledged in:
